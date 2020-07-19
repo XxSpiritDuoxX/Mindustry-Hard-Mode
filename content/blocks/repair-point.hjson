@@ -1,0 +1,4 @@
+health: 1
+requirements: [
+  copper/25
+]
