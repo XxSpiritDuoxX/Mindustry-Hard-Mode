@@ -1,6 +1,6 @@
-name: "example-mod"
-displayName: "[orange]Example[gold] Mod" //what displays in the mod selection menu
-author: "Anuke"
-description: "A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]"
-version: "3.1"
-minGameVersion: "103"
+name: "HardMode"
+displayName: "[Orange]Hard Mod" //what displays in the mod selection menu
+author: "[blue]Xx[white]SpiritDuo[blue]xX"
+description: "Makes Vanilla Mindustry overall Harder,Units will have 2x Health,and some may have extra traits,Turrets and Transport blocks will have 10% of their HP,Certain items will be nerfed,Unit Factories will have increased costs,and much more,but on the bright side,at least your mechs are stronger [red]NOTE: Don't use with any other mods that change vanilla units,blocks,or etc,because this may break the mod"
+version: "1.0.0"
+minGameVersion: "104.6"
