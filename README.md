@@ -1,5 +1,7 @@
 # Info
-makes mindustry harder,its just that
+perhaps expansions to mindustry was not what you were searching,or perhaps,maybe what you need is a little more difficulty to the game,not more longer gameplay
+
+after all,maybe these maps were too easy for your taste
 
 ## Effects
 -All Units have massivley Increased health and abilities
